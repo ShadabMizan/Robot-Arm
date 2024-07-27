@@ -4,3 +4,4 @@ Building a Glove Controlled Robot Arm!
 # Team
 Shadab Mizan
 Voltaire Lucas
+Abdalla Elmaddah
